@@ -1,1 +1,1 @@
-# Tubes-Pemfug implementasi pada streamlit PROGRAM MENU DECORATOR AND HIGH ORDER FUNCTION
+# Tubes-Pemfug implementasi pada streamlit Program Menu Decorator And High Order Function
